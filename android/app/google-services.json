@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37660112313",
+    "project_id": "my-car-firebase-app",
+    "storage_bucket": "my-car-firebase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37660112313:android:f07d5388f45b2fac8b3268",
+        "android_client_info": {
+          "package_name": "com.pdpCar.my_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37660112313-j5sc9g8ol662jcktjjhovdj3csmjt5v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1vraHjFZSb34iOmTcG67-hG1RbT9uBPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37660112313-j5sc9g8ol662jcktjjhovdj3csmjt5v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
